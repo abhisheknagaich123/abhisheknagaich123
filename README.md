@@ -7,7 +7,7 @@
 </p>
 <br> <br>
 
-<h1 align="left">Hello There, I am Abhishek Nagaisch</h1>
+<h1 align="left">Hello There, I am Abhishek Nagaich</h1>
 
 
 ```
