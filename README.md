@@ -38,13 +38,13 @@
 
 
 ## See me at:
-<a href="https://https://www.codechef.com/users/gtmkr1234"> <img align="left" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"> </a>
+<a href="https://https://www.codechef.com/users/abhisheknagaich123"> <img align="left" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"> </a>
 <br> <br>
 
 
 ## Contribution & Streak:
 <p align="center" >
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=gtmkr1234">
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=abhisheknagaich123">
 </p> 
 <p align="center">
 <img width="120%"  src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572">
