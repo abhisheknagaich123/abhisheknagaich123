@@ -33,7 +33,8 @@
 ## Languages and Tools: 
 <a href="https://www.java.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.php.org"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="Php" width="40" height="40" /></a>
-<a href="https://github.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" alt="Dart" width="60" height="60"/> </a>
+<a href="https://dart.dev/tools/dart-doc"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" alt="Dart" width="60" height="40"/> </a>
+<a href="https://dart.dev/tools/dart-doc"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="60" height="40"/> </a>
 <a href="https://www.mysql.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 
 <br>
