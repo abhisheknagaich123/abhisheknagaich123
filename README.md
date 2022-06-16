@@ -20,7 +20,7 @@
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=abhisheknagaich123"> <img align="right" width="29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheknagaich123"> 
 
 ## IDE/Editor (s) In Use:
-<img align="left" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg">
+
 <img align="left" width="10%" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 
 <img align="left" width="13%" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
