@@ -1,7 +1,4 @@
-<p align="center"> 
-<a href="https://www.linkedin.com/in/abhishek-nagaich-14bb73192">
-<img align="left" alt="Abhishek Nagaisch's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> </a>
-<img align="left" width="28px" src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif">
+
 
 
 </p>
