@@ -1,22 +1,4 @@
-### Socials
 
-<p align="left"> <a href="https://www.github.com/Divyanshu050303" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/divyanshusingh1286/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/divyanshu-singh-3477a7209" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/divyanshu0503" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-[quote]: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark
-
-### IDE/Editor (s) In Use:
-<img align="left" width="10%" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-<img align="left" width="10%" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white">
-<img align="left" width="10%" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
-<img align="left" width="10%" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important">
-<img align="left" width="13%" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
- <img align="left" width="13%" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-<br>
- 
-
-
-</p>
-<br> <br>
 
 <h1 align="left">Hello There, I am Abhishek Nagaich</h1>
 
@@ -29,7 +11,19 @@
 
 ## My Github Stats:
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=abhisheknagaich123"> <img align="right" width="29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheknagaich123"> 
+<br>
+### Socials
 
+<p align="left"> <a href="https://www.github.com/Divyanshu050303" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/divyanshusingh1286/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/divyanshu-singh-3477a7209" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/divyanshu0503" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+[quote]: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark
+
+
+ 
+
+
+</p>
+<br> <br>
 ## IDE/Editor (s) In Use:
 
 <img align="left" width="10%" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
